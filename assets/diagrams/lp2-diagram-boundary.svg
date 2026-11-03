@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 360" role="img" aria-labelledby="dgt dgd"><title id="dgt">Declared processing boundary</title><desc id="dgd">A closed contour marks the client's environment; board material and BoardMind sit inside it; nothing crosses the line.</desc>
+  <path class="d-stroke" data-draw="1" d="M60 60 H420 a40 40 0 0 1 40 40 V260 a40 40 0 0 1 -40 40 H60 a20 20 0 0 1 -20 -20 V80 a20 20 0 0 1 20 -20 Z"/>
+  <text x="60" y="44" class="d-label-strong">Your environment — the declared boundary</text>
+  <path class="d-flow" data-draw="2" d="M90 150 C150 110 190 190 250 150 S350 110 400 150"/>
+  <path class="d-flow" data-draw="2" d="M90 190 C150 150 190 230 250 190 S350 150 400 190"/>
+  <path class="d-red" data-draw="3" d="M90 170 C150 130 190 210 250 170 S350 130 400 170"/>
+  <text x="90" y="118">Board papers · minutes · resolutions</text>
+  <text x="90" y="236">BoardMind reads, reasons, cites — in here</text>
+  <path class="d-stroke" data-draw="3" d="M470 180 H540" stroke-dasharray="4 6"/>
+  <text x="470" y="166">Nothing</text><text x="470" y="206">leaves</text>
+  <text x="60" y="330" class="d-label-strong">Citation</text><text x="125" y="330">— every answer points back to a page inside the boundary</text>
+</svg>
